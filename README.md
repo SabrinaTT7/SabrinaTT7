@@ -1,8 +1,8 @@
 Hi, I'm Sabrina! 
 
-I'm currently a senior at Middlebury College, studying computer science. 
+I am a front-end software engineer at HubSpot, and a recent gradaute from Middlebury College. 
 
-I'm interested in computer graphics, and currently starting my senior thesis in computer graphics, which deals with voronoi diagrams. 
+I love all things computer science, and completed an honors thesis in computer graphics, which deals with voronoi diagrams. 
 
 Check out my personal website to learn more about me and some of the projects I've done! 
 
